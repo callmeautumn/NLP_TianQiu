@@ -1,0 +1,3 @@
+An app that detects
+whether an article is
+fake news or real news

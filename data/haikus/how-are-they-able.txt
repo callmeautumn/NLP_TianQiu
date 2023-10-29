@@ -1,0 +1,3 @@
+How are they able
+to do this when the window
+has not opened yet

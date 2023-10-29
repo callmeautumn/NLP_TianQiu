@@ -1,0 +1,3 @@
+and predicate adj
+: prs
+the world so subject that

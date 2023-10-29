@@ -1,0 +1,3 @@
+clean lawn -
+a jasmine leaf
+blood-red

@@ -1,0 +1,12 @@
+pandas
+jupyter
+matplotlib
+numpy
+nltk
+seaborn
+gensim
+scikit-learn
+torch
+torchvision
+torchaudio
+torchtext

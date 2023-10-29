@@ -1,0 +1,3 @@
+Beware of writing
+if x when you really mean
+if x is not None

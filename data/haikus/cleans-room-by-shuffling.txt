@@ -1,0 +1,3 @@
+cleans room by shuffling
+half of the items from one
+side to the other

@@ -1,0 +1,3 @@
+A library gets
+destroyed everytime an old
+person passes on

@@ -1,0 +1,3 @@
+dune grass
+a yellow butterfly weaves
+in and out of shadow

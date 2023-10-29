@@ -1,0 +1,3 @@
+gonna build a new
+text editor that helps you
+write WITH distractions

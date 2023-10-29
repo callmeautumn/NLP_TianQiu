@@ -1,0 +1,3 @@
+A function which does
+not know its purpose cannot
+be wrong about it
